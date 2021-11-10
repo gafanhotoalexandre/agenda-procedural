@@ -32,6 +32,8 @@
         <button type="submit" class="btn btn-primary">Cadastrar</button>
     </form>
 
+
 <?php
+    require_once 'config/js_mask.php';
     require_once 'templates/footer.php';
 ?>

@@ -34,5 +34,6 @@
     </form>
 
 <?php
+    require_once 'config/js_mask.php';
     require_once 'templates/footer.php';
 ?>
